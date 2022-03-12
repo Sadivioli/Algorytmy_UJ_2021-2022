@@ -1,0 +1,1 @@
+Implementacja wielomianów na bazie tablic. Działania na wielomianach: dodawanie, odejmowanie, mnożenie, obliczanie wartości wielomianu z użyciem schematu Hornera
